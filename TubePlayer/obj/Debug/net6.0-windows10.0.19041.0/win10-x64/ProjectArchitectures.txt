@@ -1,0 +1,1 @@
+C:\Users\Dell\Desktop\TubePlayer\TubePlayer\TubePlayer.csproj;x64
